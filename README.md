@@ -1,6 +1,6 @@
 # Jack Sargood
 
-[Home](README.md) | [Projects](theitest.md) | [Data Vizualisations](dataviz.md) | [Crosswords](crosswords.md)
+[Home](README.md) | [Projects](theitest.md) | [Data Visualisations](dataviz.md) | [Crosswords](crosswords.md)
 
 
 
