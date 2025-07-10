@@ -2,3 +2,8 @@
   font-family: 'MyFont';
   src: url('fonts/GuardianEgyp-Regular.ttf') format('truetype');
 }
+
+
+body {
+  font-family: 'MyFont', sans-serif;
+}
