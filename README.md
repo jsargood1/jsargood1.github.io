@@ -10,3 +10,6 @@ my work can be seen at ***the i test***. In my free time i also like to complete
 Please take a look at some of my work. 
 
 hello this should change
+
+
+<link rel="stylesheet" href="style.css">
